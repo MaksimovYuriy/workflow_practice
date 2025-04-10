@@ -1,2 +1,2 @@
 # workflow_practice
-https://github.com/MaksimovYuriy/workflow_practice/actions/workflows/WORKFLOW-FILE/badge.svg
+[![Actions Status](https://github.com/MaksimovYuriy/workflow_practice/actions/workflows/blank.yml/badge.svg)](https://github.com/MaksimovYuriy/workflow_practice/actions)
